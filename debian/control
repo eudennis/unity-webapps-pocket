@@ -1,0 +1,18 @@
+Source: unity-webapps-pocket
+Section: web
+Priority: extra
+Standards-Version: 0.0.2
+Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
+Build-Depends: debhelper (>=7)
+Homepage: https://getpocket.com/
+
+Package: unity-webapps-getpocket
+Architecture: all
+Section: web
+Priority: extra
+Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
+XB-Ubuntu-Webapps-Includes: https://*.getpocket.net/*;https://getpocket.net/*;http://*.getpocket.net/*;http://getpocket.net/*
+XB-Ubuntu-Webapps-Name: Feedly
+XB-Ubuntu-Webapps-Domain: getpocket.com
+Description: Unity Webapp for Feedly
+ Feedly Webapp for Unity
