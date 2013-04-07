@@ -1,7 +1,7 @@
 Source: unity-webapps-pocket
 Section: web
 Priority: extra
-Standards-Version: 0.0.1
+Standards-Version: 0.0.11
 Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
 Build-Depends: debhelper (>=7)
 Homepage: https://getpocket.com/
