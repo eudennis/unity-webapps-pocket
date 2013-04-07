@@ -1,0 +1,15 @@
+Package: unity-webapps-getpocket
+Source: unity-webapps-pocket
+Version: 0.1
+Architecture: all
+Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
+Installed-Size: 111
+Depends: unity-webapps-common, xdg-utils
+Section: web
+Priority: extra
+Homepage: https://getpocket.com/
+Description: Unity Webapp for Pocket
+ Pocket Webapp for Unity
+Ubuntu-Webapps-Domain: getpocket.com
+Ubuntu-Webapps-Includes: https://*.getpocket.net/*;https://getpocket.net/*;http://*.getpocket.net/*;http://getpocket.net/*
+Ubuntu-Webapps-Name: Pocket
