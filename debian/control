@@ -4,14 +4,14 @@ Priority: extra
 Standards-Version: 0.0.11
 Maintainer: Dennis Altermann <dennisaltermann@gmail.com>
 Build-Depends: debhelper (>=7)
-Homepage: https://getpocket.com/
+Homepage: http://getpocket.com/
 
 Package: unity-webapps-getpocket
 Architecture: all
 Section: web
 Priority: extra
 Depends: unity-webapps-common, xdg-utils, ${misc:Depends}
-XB-Ubuntu-Webapps-Includes: https://*.getpocket.net/*;https://getpocket.net/*;http://*.getpocket.net/*;http://getpocket.net/*
+XB-Ubuntu-Webapps-Includes: http://getpocket.com/*;
 XB-Ubuntu-Webapps-Name: Pocket
 XB-Ubuntu-Webapps-Domain: getpocket.com
 Description: Unity Webapp for Pocket
