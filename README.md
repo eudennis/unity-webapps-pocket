@@ -30,10 +30,10 @@ Basic Unity WebApps integration with Pocket
 <ol>
 <li>Open Terminal (Ctrl+Alt+T is the default keyboard hotkey)</li>
 <li>Select and go to one directory (cd /home/[user]/dev/)</li>
-<li>Download the source from Github (git clone git@github.com:eudennis/unity-webapps-feedly.git)</li>
-<li>Open the source folder (cd unity-webapps-feedly)</li>
+<li>Download the source from Github (git clone git@github.com:eudennis/unity-webapps-pocket.git)</li>
+<li>Open the source folder (cd unity-webapps-pocket)</li>
 <li>You need to install some packages to build it (sudo apt-get install build-essential autoconf automake autotools-dev dh-make debhelper devscripts fakeroot xutils lintian pbuilder)</li>
 <li>Build it (dpkg-buildpackage -rfakeroot)</li>
 <li>Now open the .deb file that was created (cd nautilus /home/[user]/dev/)</li>
-<li>Once installed, it's done. You should see an popup notify the first time that you open the Feedly website</li>
+<li>Once installed, it's done. You should see an popup notify the first time that you open the Pocket website</li>
 </ol>
