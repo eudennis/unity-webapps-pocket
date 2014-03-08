@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name          Pocket-Unity-Integration
 // @include       http://getpocket.com/*
-// @version       0.2
+// @include       https://getpocket.com/*
+// @version       0.3
 // @author        Dennis Altermann
 // @require        utils.js
 // ==/UserScript==
