@@ -1,10 +1,12 @@
-unity-webapps-pocket (0.2) quantal; urgency=low
+unity-webapps-pocket (0.3);
+
+unity-webapps-pocket (0.2); urgency=low
 
   * Bug Fixes
 
  -- Dennis Altermann <dennisaltermann@gmail.com>  Tue, 6 Nov 2013 18:39:31 +0000
 
- unity-webapps-pocket (0.1) quantal; urgency=low
+ unity-webapps-pocket (0.1); urgency=low
 
   * Initial release
 
