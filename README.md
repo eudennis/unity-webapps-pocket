@@ -13,7 +13,9 @@ Basic Unity WebApps integration with Pocket
 
 <h4>Changelog:</h4>
 <ul>
-<li> 1.0 - Basic webapp integration (Dashboard search, launcher icon and alt+tab) </li>
+<li> 0.1 - Basic webapp integration (Dashboard search, launcher icon and alt+tab) </li>
+<li> 0.2 - Bug fixes</li>
+<li> 0.3 - Fix the HTTPS bug, now it's working again </li>
 </ul>
 
 <h4>Installing:</h4>
