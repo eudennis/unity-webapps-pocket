@@ -7,7 +7,7 @@ Basic Unity WebApps integration with Pocket
 
 <p>For more information about Pocket, visit <a href="http://getpocket.com" target="_blank" title="Pocket website">getpocket.com</a></p>
 
-<p>Remember, this only work in Ubuntu with Firefox or Chromium. Webapps doesn't work with Google Chrome or Opera yet.</p>
+<p>Currently not working with Ubuntu 14.04. Remember, this only work in Ubuntu with Firefox or Chromium. Webapps doesn't work with Google Chrome or Opera yet.</p>
 
 <p>This is the source code to compile in .deb file and install in Ubuntu</p>
 
